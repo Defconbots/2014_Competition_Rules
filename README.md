@@ -6,8 +6,8 @@ If you have questions or comments about the rules create an issue in this reposi
 
 ## Spirit of the Contest
 
- * Build a robot that can shoot a laser
- * Write software to accurately shoot moving and illuminated targets with that laser
+ * Build an autonomous robot with an aiming mechanism and a laser
+ * Write software for the robot to accurately aim and shoot the laser at moving and illuminated targets
 
 Robots that go against the spirit of the contest will be disqualified. Examples of this would be a robot that randomly sweeps the laser across the Arena or is secretly remote controlled.
 
@@ -20,7 +20,8 @@ Robots that go against the spirit of the contest will be disqualified. Examples 
 
 ### Software
 
- * Autonomous
+ * Autonomous (no remote control)
+ * Laser should be pulsed on for 500ms with a 1500ms delay between shots.
 
 ### Shooting Device
 
@@ -31,7 +32,7 @@ Competition Mechanics
 ## Arena
  
  * 5 x 10 meters
- * Ground will be flat-black color (blackout clothe)
+ * Ground will be flat-black color (blackout cloth)
  * TBD alignment targets
    * Location TBD
 
