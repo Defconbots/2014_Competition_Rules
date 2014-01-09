@@ -35,26 +35,33 @@ You can get the laser somewhere else but it must be the same model
  * 5 x 10 meters
  * Ground will be flat-black color (blackout cloth)
  * TBD alignment targets
-   * Location TBD
+   * Location (TBD)
 
 ## Targets
 
  * 5 targets
- * 0.1 - 0.5 meter off the ground
- * 0.1 - 1 meters apart
- * 0.1 - 5 m/s
+ * 0.1 - 0.5 meter off the ground (TBD)
+ * 0.1 - 1 meters apart (TBD)
+ * Fixed speed of (TBD - approximately 0.15 m/s)
  * Spherical shape
  * 40mm diameter (table-tennis ball)
  * White surface color
- * Illuminated blue (470nm)
- * Must hit with laser for >300ms (Specific laser above!)
+ * Illuminated blue (470nm) when active
 
 ## Waves
 
- * Start at slowest speed and go from start to finish
- * Each wave target speed increases
+ * Each wave starts at a specific point (TBD) on the track.
+ * Initially all targets are illuminated and "alive"
+ * A "hit" on a target is with laser for >300ms (Specific laser above!) while illuminated
+ * Once a target is hit illumination will stop for one(1) second
+ * Wave #1 will require one(1) hit on each target
+ * Wave #n(where n is the wave number) will require n hits on each target
+ * Once n hits have been completed the target illumination will stop until the end of the wave
+ * At the end of the wave there may be up to one(1) minute of delay before the next wave starts
+ * If there is a problem with the track or targets during a wave the event coordinators reserve the right to halt the wave and restart it (we will try our best to never let this happen!)
 
 ## How to win
 
+ * A tournament structure is in development and TBD (competitor feedback is encouraged!)
  * Complete the most number of waves
  * If multiple teams complete the same number of waves then partial waves will be counted (number of targets finished before the end of the wave)
