@@ -25,7 +25,7 @@ Robots that go against the spirit of the contest will be disqualified. Examples 
 
 ### Shooting Device
 
-Red laser, Specifically: https://www.sparkfun.com/products/8654 or https://www.sparkfun.com/products/594
+ * One(1) Red laser, Specifically: https://www.sparkfun.com/products/8654 or https://www.sparkfun.com/products/594
 You can get the laser somewhere else but it must be the same model
 
 # Competition Mechanics
@@ -47,9 +47,14 @@ You can get the laser somewhere else but it must be the same model
  * 40mm diameter (table-tennis ball)
  * White surface color
  * Illuminated blue (470nm)
- *  Must hit with laser for >300ms (Specific laser above!)
+ * Must hit with laser for >300ms (Specific laser above!)
 
 ## Waves
 
  * Start at slowest speed and go from start to finish
  * Each wave target speed increases
+
+## How to win
+
+ * Complete the most number of waves
+ * If multiple teams complete the same number of waves then partial waves will be counted (number of targets finished before the end of the wave)
