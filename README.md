@@ -39,7 +39,7 @@ You can get the laser somewhere else but it must be the same model
 
 ## Targets
 
- * 3 - 5 targets
+ * 5 targets
  * 0.1 - 0.5 meter off the ground
  * 0.1 - 1 meters apart
  * 0.1 - 5 m/s
