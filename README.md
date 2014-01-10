@@ -28,6 +28,7 @@ Robots that go against the spirit of the contest will be disqualified. Examples 
  * One(1) Red laser, Specifically: https://www.sparkfun.com/products/8654 or https://www.sparkfun.com/products/594
 You can get the laser somewhere else but it must be the same model
  * If a mirror is used to direct your laser it must not distort your laser beam (cannot be concave or convex)
+ * The laser should only emit one laser beam (no beam-splitters)
 
 # Competition Mechanics
 
