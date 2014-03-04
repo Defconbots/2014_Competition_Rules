@@ -52,7 +52,7 @@ You can get the laser somewhere else but it must be the same model
 
 ## Waves
 
- * Each wave starts at a specific point (TBD) on the track.
+ * Each wave starts at a specific point (TBD) on the track
  * Initially all targets are illuminated and "alive"
  * A "hit" on a target is with laser for >300ms (Specific laser above!) while illuminated
  * Once a target is hit illumination will stop for one(1) second
@@ -64,6 +64,21 @@ You can get the laser somewhere else but it must be the same model
 
 ## How to win
 
- * A tournament structure is in development and TBD (competitor feedback is encouraged!)
- * Complete the most number of waves
- * If multiple teams complete the same number of waves then partial waves will be counted (number of targets finished before the end of the wave)
+ * Your score is:
+   * Number of waves you complete (higher is better)
+   * Number of targets remaining as the first tiebreaker (lower is better)
+   * Total hitpoints remaining as the second tiebreaker (lower is better)
+ * Qualification
+   * Contestants are able to qualify on a first-come, first-serve basis
+   * Contestants have 15 minutes to set up their robot. When the contestant is ready, the first wave will start
+   * If a wave is completed, then the next wave will start. Otherwise the contestant has the ability to tweak their robot and retry the wave
+   * After 3 failed waves, the contestants turn is over, and their score will be recorded on a leaderboard
+   * If available, contestants are able to try to qualify again at a later time, but people who haven't qualified have first priority
+ * Finals
+   * After the qualification round is completed, the finals round will start
+   * The top 4 contestants in the qualification round proceed to the finals
+   * In order from fourth place to first place, each contestant will take a turn in order
+   * Contestants have 15 minutes to set up their robot. When the contestant is ready, the first wave will start
+   * If a wave is completed, then the next wave will start
+   * After a failed wave, their turn is over, and their score will be recorded
+ * The final ranking will be determined by the finals times for the people that were in first through fourth, followed by the runners up in order of their qualification score.
