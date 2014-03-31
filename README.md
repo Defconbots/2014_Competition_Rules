@@ -34,7 +34,7 @@ You can get the laser somewhere else but it must be the same model
 
 ## Arena
  
- * 5 x 10 meters
+ * 6 x 6 meters
  * Ground will be flat-black color (blackout cloth)
  * TBD alignment targets
    * Location (TBD)
@@ -42,9 +42,9 @@ You can get the laser somewhere else but it must be the same model
 ## Targets
 
  * 5 targets
- * 0.1 - 0.5 meter off the ground (TBD)
- * 0.1 - 1 meters apart (TBD)
- * Fixed speed of (TBD - approximately 0.15 m/s)
+ * 12.5 - 25 cm off the ground
+ * 12.5 cm apart
+ * Fixed speed of 0.25 m/s
  * Spherical shape
  * 40mm diameter (table-tennis ball)
  * White surface color
@@ -52,7 +52,7 @@ You can get the laser somewhere else but it must be the same model
 
 ## Waves
 
- * Each wave starts at a specific point (TBD) on the track
+ * Each wave starts at a specific point on the track
  * Initially all targets are illuminated and "alive"
  * A "hit" on a target is with laser for >300ms (Specific laser above!) while illuminated
  * Once a target is hit illumination will stop for one(1) second
