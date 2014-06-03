@@ -36,8 +36,6 @@ You can get the laser somewhere else but it must be the same model
  
  * 6 x 6 meters
  * Ground will be flat-black color (blackout cloth)
- * TBD alignment targets
-   * Location (TBD)
 
 ## Targets
 
@@ -48,14 +46,14 @@ You can get the laser somewhere else but it must be the same model
  * Spherical shape
  * 40mm diameter (table-tennis ball)
  * White surface color
- * Illuminated blue (470nm) when active
+ * Illuminated blue (470nm) when active, red (631nm) when stunned, off when dead
 
 ## Waves
 
  * Each wave starts at a specific point on the track
  * Initially all targets are illuminated and "alive"
- * A "hit" on a target is with laser for >300ms (Specific laser above!) while illuminated
- * Once a target is hit illumination will stop for one(1) second
+ * A "hit" on a target is with laser for >450ms (Specific laser above!) while illuminated
+ * Once a target is hit illumination will transition from blue to red for one(1) second
  * Wave #1 will require one(1) hit on each target
  * Wave #n(where n is the wave number) will require n hits on each target
  * Once n hits have been completed the target illumination will stop until the end of the wave
