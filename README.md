@@ -1,6 +1,6 @@
 # Defconbots 2014 - Tower Defense - Rules
 
-These are the official rules for the defconbots 2014, tower defense, competition. These rules are in development and subject to change but will be finalized by May-2014.
+These are the official rules for the defconbots 2014, tower defense, competition.
 
 If you have questions or comments about the rules create an issue in this repository.
 
@@ -34,13 +34,13 @@ You can get the laser somewhere else but it must be the same model
 
 ## Arena
  
- * 6 x 6 meters
+ * 6 x 4.5 meters (See conceptual layout http://i.imgur.com/4RzQxc4.png)
  * Ground will be flat-black color (blackout cloth)
 
 ## Targets
 
  * 5 targets
- * 12.5 - 25 cm off the ground
+ * 12.5 cm off the ground
  * 12.5 cm apart
  * Fixed speed of 0.25 m/s
  * Spherical shape
@@ -52,7 +52,7 @@ You can get the laser somewhere else but it must be the same model
 
  * Each wave starts at a specific point on the track
  * Initially all targets are illuminated and "alive"
- * A "hit" on a target is with laser for >450ms (Specific laser above!) while illuminated
+ * A "hit" on a target is with laser for 450ms-1200ms (Specific laser above!) while illuminated
  * Once a target is hit illumination will transition from blue to red for one(1) second
  * Wave #1 will require one(1) hit on each target
  * Wave #n(where n is the wave number) will require n hits on each target
